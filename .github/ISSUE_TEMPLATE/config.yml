@@ -8,5 +8,6 @@ contact_links:
   about: Report privately. If unavailable, email support@pixling.app. / 非公開で報告。利用できなければ support@pixling.app
     へ。
 - name: Billing, refunds, and personal support / 課金・返金・個別サポート
-  url: mailto:support@pixling.app
-  about: Email support; never post transaction IDs publicly. / メールへ。取引 ID を公開の場に書かないでください。
+  url: https://pixling.app/en/support
+  about: Email support@pixling.app; never post transaction IDs publicly. / support@pixling.app へメール。取引
+    ID は非公開で。
