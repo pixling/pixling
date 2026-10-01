@@ -30,8 +30,9 @@ body:
   id: language
   attributes:
     label: Page language
+    description: Optional. The documentation is currently English only.
   validations:
-    required: true
+    required: false
 - type: textarea
   id: problem
   attributes:

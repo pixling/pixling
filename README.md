@@ -6,7 +6,7 @@ Pixel residents that live on your Mac desktop.
 
 ## Documentation
 
-Read the documentation at **https://pixling.app/docs** for guides, reference, search, and language switching.
+Read the documentation at **https://pixling.app/docs** for guides, reference, and search.
 
 ## Reports and conversations
 
