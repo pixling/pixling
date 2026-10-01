@@ -1,10 +1,8 @@
 # Pixling
 
-This repository does not contain the Pixling app's source code. The app is proprietary: **All rights reserved**.
+This repository does not contain the Pixling app's source code. The app is proprietary: **All rights reserved**. Only material in [examples/](examples/) is licensed under the [MIT License](examples/LICENSE).
 
 Pixel residents that live on your Mac desktop.
-
-[日本語](README.ja.md)
 
 ## Documentation
 
@@ -19,7 +17,7 @@ Read the documentation at **https://pixling.app/docs** for guides, reference, se
 - **Security vulnerabilities:** [private vulnerability reporting](https://github.com/pixling/pixling/security/advisories/new). If unavailable, email [support@pixling.app](mailto:support@pixling.app). Never report vulnerabilities in public issues or discussions.
 - **Billing, refunds, transaction IDs, wallet details, or personal circumstances:** email [support@pixling.app](mailto:support@pixling.app). Do not post these in public.
 
-Screenshots and logs can expose resident or agent conversations, file names, and your Mac account name. Review and redact them before posting. Reports are welcome in any language; replies are best-effort, in Japanese or English.
+Screenshots and logs can expose resident or agent conversations, file names, and your Mac account name. Review and redact them before posting. Reports are welcome in any language; replies are best-effort, in English.
 
 This is an intake repository. We do not accept pull requests; use an issue or discussion instead. We do not use a stale bot.
 
