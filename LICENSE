@@ -1,0 +1,17 @@
+Copyright (c) 2026 Pixling. All rights reserved.
+
+The documentation and brand materials in this repository are reserved by their
+respective rights holders. No open-source license or permission to reuse Pixling
+names, logos, artwork, or other brand materials is granted by publication of this
+repository.
+
+The Pixling app's source code is not included. The app is proprietary and all
+rights are reserved.
+
+Only material in the examples/ directory is licensed under the MIT License in
+examples/LICENSE. That license does not apply to the rest of this repository.
+
+この repo のドキュメントとブランド素材は、各権利者がすべての権利を留保します。
+公開によってオープンソースのライセンスや、名称・ロゴ・画像などブランド素材の
+再利用許諾を与えるものではありません。本体のソースは含みません。
+examples/ 内の素材だけに examples/LICENSE の MIT ライセンスが適用されます。

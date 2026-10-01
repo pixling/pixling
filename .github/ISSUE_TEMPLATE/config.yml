@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+contact_links:
+- name: Ideas and questions / 要望と質問
+  url: https://github.com/pixling/pixling/discussions
+  about: Use Ideas or Q&A in Discussions. / Discussions の Ideas・Q&A を使ってください。
+- name: Security vulnerability / 脆弱性（非公開）
+  url: https://github.com/pixling/pixling/security/advisories/new
+  about: Report privately. If unavailable, email support@pixling.app. / 非公開で報告。利用できなければ support@pixling.app
+    へ。
+- name: Billing, refunds, and personal support / 課金・返金・個別サポート
+  url: mailto:support@pixling.app
+  about: Email support; never post transaction IDs publicly. / メールへ。取引 ID を公開の場に書かないでください。
