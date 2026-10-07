@@ -2,11 +2,13 @@
 
 This repository does not contain the Pixling app's source code. The app is proprietary: **All rights reserved**. Only material in [examples/](examples/) is licensed under the [MIT License](examples/LICENSE).
 
-Pixel residents that live on your Mac desktop.
+Pixel residents that live on your Mac desktop. See **https://pixling.app**.
 
-## Documentation
+## Not out yet
 
-Read the documentation at **https://pixling.app/docs** for guides, reference, and search.
+Pixling is coming to the Mac App Store and is not available yet. To hear when it is out, choose **Watch → Custom → Releases** on this repository: we publish a release here on launch day. Ideas and questions are already welcome in [Discussions](https://github.com/pixling/pixling/discussions).
+
+The documentation will be at https://pixling.app/docs from launch.
 
 ## Reports and conversations
 
